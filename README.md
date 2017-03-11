@@ -16,12 +16,12 @@ The dates are shown here in DD/MM/YYYY format.
 | CHES        | 17/03/2017                   | 17/03/2017                     | 06/06/2017                 | A    | Taipei, Taiwan        | [Website](http://www.chesworkshop.org/2017/) |
 | MWSCAS      | 18/03/2017                   | 18/03/2017                     | 29/04/2017                 | B    | Boston                | [Website](http://www.mwscas2017.org/call-for-papers/) |
 | FPL         | 19/03/2017                   | 26/03/2017                     | 16/06/2017                 | A    | Ghent (Belgium)       | [Website](http://www.fpl2017.org/)       |
-| Recosoc     | 31/03/2017                   | 07/04/2017                     | 19/05/2017                 | ?    | Madrid, Spain         | [Website](http://www.recosoc.org/)       |
-| CODES+ISSS  | 31/03/2017                   | 07/04/2017                     | 30/06/2017                 | ?    | Seoul, South Korea    | [Website](http://esweek.org)             |
+| Recosoc     | 31/03/2017                   | 07/04/2017                     | 19/05/2017                 | B    | Madrid, Spain         | [Website](http://www.recosoc.org/)       |
+| CODES+ISSS  | 31/03/2017                   | 07/04/2017                     | 30/06/2017                 | A+    | Seoul, South Korea    | [Website](http://esweek.org)             |
 | DSD         | 15/04/2017                   | 15/04/2017                     | 10/06/2017                 | B    |                       | [Website](http://dsd-seaa2017.ocg.at)    |
 | ICCAD       | 17/04/2017                   | 24/04/2017                     | End June                   | A+   | Irvine (CA, USA)      | [Website](https://iccad.com)             |
 | DASIP       | End April                    | End April                      | End June                   | B    | ?                     | [Website](http://ecsi.org/dasip/call-for-papers) |
-| CRYPTARCHI  | 02/05/2017                   | 02/05/2017                     | 09/05/2017                 | ?    | Smolenice, Slovakia   | [Website](https://labh-curien.univ-st-etienne.fr/cryptarchi/) |
+| CRYPTARCHI  | 02/05/2017                   | 02/05/2017                     | 09/05/2017                 | C    | Smolenice, Slovakia   | [Website](https://labh-curien.univ-st-etienne.fr/cryptarchi/) |
 | ICFPT       | 10/07/2017                   | 17/07/2017                     | 20/09/2017                 | A    | Melbourne (Australia) | [Website](http://www.icfpt.org/)         |
 | Reconfig    | Mid july                     | ?                              | Mid September              | B    | ?                     | [Website](http://www.reconfig.org/)      |
 | FPGA        | ?/09/2017                    | /09/2017                       | Mid November               | A+   |                       | [Website](http://www.isfpga.org/)        |
