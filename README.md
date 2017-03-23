@@ -15,7 +15,7 @@ The dates are shown here in DD/MM/YYYY format.
 | HASP        | 15/03/2017                   | 15/03/2017                     | ?/04/2017                  | A+/A | Toronto               | [Website](http://caslab.csl.yale.edu/workshops/hasp2017/index.html) |
 | CHES        | 17/03/2017                   | 17/03/2017                     | 06/06/2017                 | A    | Taipei, Taiwan        | [Website](http://www.chesworkshop.org/2017/) |
 | MWSCAS      | 18/03/2017                   | 18/03/2017                     | 29/04/2017                 | B    | Boston                | [Website](http://www.mwscas2017.org/call-for-papers/) |
-| FPL         | 19/03/2017                   | 26/03/2017                     | 16/06/2017                 | A    | Ghent (Belgium)       | [Website](http://www.fpl2017.org/)       |
+| FPL         | 29/03/2017                   | 05/04/2017                     | 16/06/2017                 | A    | Ghent (Belgium)       | [Website](http://www.fpl2017.org/)       |
 | Recosoc     | 31/03/2017                   | 07/04/2017                     | 19/05/2017                 | B    | Madrid, Spain         | [Website](http://www.recosoc.org/)       |
 | CODES+ISSS  | 31/03/2017                   | 07/04/2017                     | 30/06/2017                 | A+   | Seoul, South Korea    | [Website](http://esweek.org)             |
 | DSD         | 15/04/2017                   | 15/04/2017                     | 10/06/2017                 | B    | Vianne, Austria       | [Website](http://dsd-seaa2017.ocg.at)    |
