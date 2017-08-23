@@ -14,7 +14,6 @@ The dates are shown here in DD/MM/YYYY format.
 | RAW         | 02/02/2017                   | 05/02/2017                     | 01/03/2017                 | B    | Florida USA           | [Website](http://raw.necst.it/) |
 | HASP        | 15/03/2017                   | 15/03/2017                     | ?/04/2017                  | A+/A | Toronto               | [Website](http://caslab.csl.yale.edu/workshops/hasp2017/index.html) |
 | CHES        | 17/03/2017                   | 17/03/2017                     | 06/06/2017                 | A    | Taipei, Taiwan        | [Website](http://www.chesworkshop.org/2017/) |
-| MWSCAS      | 18/03/2018                   | 18/03/2018                     | 29/04/2018                 | B    | Boston                | [Website](https://mwscas2018.org/) |
 | FPL         | 29/03/2017                   | 05/04/2017                     | 16/06/2017                 | A    | Ghent (Belgium)       | [Website](http://www.fpl2017.org/)       |
 | Recosoc     | 31/03/2017                   | 07/04/2017                     | 19/05/2017                 | B    | Madrid, Spain         | [Website](http://www.recosoc.org/)       |
 | CODES+ISSS  | 31/03/2017                   | 07/04/2017                     | 30/06/2017                 | A+   | Seoul, South Korea    | [Website](http://esweek.org/codes/about)             |
@@ -29,3 +28,4 @@ The dates are shown here in DD/MM/YYYY format.
 | HOST        | ?/11/2017                    | /11/2017                       | End January                | B    |                       | [Website](http://www.hostsymposium.org/)    |
 | ARC         | 11/11/2017r                 | 11/11/2017                   | 19/12/2017               | B    | Santorini, Greece          | [Website](http://arc2018.esda-lab.cied.teiwest.gr/) |
 | DAC         | 14/11/2017                  | 21/11/2017                    | End February               | A+   | Austin (TX, USA)        | [Website](http://www.dac.com)            |
+| MWSCAS      | 18/03/2018                   | 18/03/2018                     | 29/04/2018                 | B    | Boston                | [Website](https://mwscas2018.org/) |
