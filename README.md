@@ -19,8 +19,8 @@ The dates are shown here in DD/MM/YYYY format.
 | CODES+ISSS  | 31/03/2017                   | 07/04/2017                     | 30/06/2017                 | A+   | Seoul, South Korea    | [Website](http://esweek.org/codes/about)             |
 | DSD         | 15/04/2017                   | 15/04/2017                     | 10/06/2017                 | B    | Vianne, Austria       | [Website](http://dsd-seaa2017.ocg.at)    |
 | ICCAD       | 17/04/2017                   | 24/04/2017                     | End June                   | A+   | Irvine (CA, USA)      | [Website](https://iccad.com)             |
-| DASIP       | 25/05/2017                   | 01/06/2017                     | 10/07/2017                 | B    | Dresden, Germany      | [Website](http://dasip2017.esit.rub.de/) |
 | CRYPTARCHI  | 02/05/2017                   | 02/05/2017                     | 09/05/2017                 | C    | Smolenice, Slovakia   | [Website](https://labh-curien.univ-st-etienne.fr/cryptarchi/) |
+| DASIP       | 25/05/2017                   | 01/06/2017                     | 10/07/2017                 | B    | Dresden, Germany      | [Website](http://dasip2017.esit.rub.de/) |
 | ICFPT       | 10/07/2017                   | 17/07/2017                     | 20/09/2017                 | A    | Melbourne (Australia) | [Website](http://www.icfpt.org/)         |
 | Reconfig    | 11/08/2017                   | 11/08/2017                     | 22/09/2017                 | B    | Cancun, Mexico        | [Website](http://www.reconfig.org/)      |
 | FPGA        | 17/09/2017                    | 17/09/2017                    | 15/11/2017                 | A+   | Monterrey (CA, USA)   | [Website](http://www.isfpga.org/)        |
