@@ -23,9 +23,9 @@ The dates are shown here in DD/MM/YYYY format.
 | DASIP       | 25/05/2017                   | 01/06/2017                     | 10/07/2017                 | B    | Dresden, Germany      | [Website](http://dasip2017.esit.rub.de/) |
 | ICFPT       | 10/07/2017                   | 17/07/2017                     | 20/09/2017                 | A    | Melbourne (Australia) | [Website](http://www.icfpt.org/)         |
 | Reconfig    | 11/08/2017                   | 11/08/2017                     | 22/09/2017                 | B    | Cancun, Mexico        | [Website](http://www.reconfig.org/)      |
-| FPGA        | 17/09/2017                    | 17/09/2017                    | 15/11/2017                 | A+   | Monterrey (CA, USA)   | [Website](http://www.isfpga.org/)        |
 | DATE        | 10/09/2017                    | 10/09/2017                       | 10/11/2017              | A+   | Dresden, Germany      | [Website](http://date-conference.com)    |
+| FPGA        | 17/09/2017                    | 17/09/2017                    | 15/11/2017                 | A+   | Monterrey (CA, USA)   | [Website](http://www.isfpga.org/)        |
 | HOST        | ?/11/2017                    | /11/2017                       | End January                | B    |                       | [Website](http://www.hostsymposium.org/)    |
-| ARC         | 11/11/2017r                 | 11/11/2017                   | 19/12/2017               | B    | Santorini, Greece          | [Website](http://arc2018.esda-lab.cied.teiwest.gr/) |
+| ARC         | 11/11/2017                 | 11/11/2017                   | 19/12/2017               | B    | Santorini, Greece          | [Website](http://arc2018.esda-lab.cied.teiwest.gr/) |
 | DAC         | 14/11/2017                  | 21/11/2017                    | End February               | A+   | Austin (TX, USA)        | [Website](http://www.dac.com)            |
 | MWSCAS      | 18/03/2018                   | 18/03/2018                     | 29/04/2018                 | B    | Boston                | [Website](https://mwscas2018.org/) |
