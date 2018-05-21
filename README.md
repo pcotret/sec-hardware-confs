@@ -12,14 +12,14 @@ The dates are shown here in DD/MM/YYYY format.
 | ----------- | ---------------------------- | ------------------------------ | -------------------------- | ---- | ---------------------- | ---------------------------------------- |
 | FCCM        | 12/01/2018                   | 12/01/2018                     | 05/03/2018                 | A    | Boulder, CO, USA       | [Website](http://fccm.org)               |
 | RAW         | 12/01/2018                   | 19/01/2018                     | 16/02/2018                 | B    | Vancouver, Canada      | [Website](http://raw.necst.it/)          |
-| HASP        | 15/03/2017                   | 15/03/2017                     | ?/04/2017                  | A+/A | Toronto                | [Website](http://caslab.csl.yale.edu/workshops/hasp2017/index.html) |
+| HASP        | 06/04/2018                   | 06/04/2018                     | 20/04/2018                 | A+/A | Toronto                | [Website](http://caslab.csl.yale.edu/workshops/hasp2018/index.html) |
 | CHES        | N/A                          | N/A                            | N/A                        | A    | Amsterdam, Netherlands | [Website](http://www.chesworkshop.org/2018/) |
-| FPL         | ???                          | ???                            | ???                        | A    | Dublin, Ireland        | [Website](http://www.fpl2018.org/)       |
+| FPL         | 26/03/2018                   | 09/04/2018                     | 21/05/2018                 | A    | Dublin, Ireland        | [Website](http://www.fpl2018.org/)       |
 | Recosoc     | 09/04/2018                   | 16/04/2018                     | 21/05/2018                 | B    | Lille, France          | [Website](http://www.univ-valenciennes.fr/recosoc) |
-| CODES+ISSS  | 31/03/2017                   | 07/04/2017                     | 30/06/2017                 | A+   | Seoul, South Korea     | [Website](http://esweek.org/codes/about) |
+| CODES+ISSS  | 27/03/2018                   | 03/04/2018                     | 01/07/2018                 | A+   | Seoul, South Korea     | [Website](http://esweek.org/codes/about) |
 | DSD         | 01/04/2018                   | 01/04/2018                     | 15/05/2018                 | B    | Prague, Czech republic | [Website](http://dsd-seaa2018.fit.cvut.cz/dsd/) |
-| ICCAD       | 17/04/2017                   | 24/04/2017                     | End June                   | A+   | Irvine (CA, USA)       | [Website](https://iccad.com)             |
-| CRYPTARCHI  | 02/05/2017                   | 02/05/2017                     | 09/05/2017                 | C    | Smolenice, Slovakia    | [Website](https://labh-curien.univ-st-etienne.fr/cryptarchi/) |
+| ICCAD       | 06/04/2018                   | 23/04/2018                     | 27/06/2018                 | A+   | San Diego (CA, USA)       | [Website](https://iccad.com)             |
+| CRYPTARCHI  | 10/04/2018                   | 10/04/2018                     | 21/04/2018                 | C    | Guidel, France    | [Website](https://labh-curien.univ-st-etienne.fr/cryptarchi/) |
 | DASIP       | 25/05/2017                   | 01/06/2017                     | 10/07/2017                 | B    | Dresden, Germany       | [Website](http://dasip2017.esit.rub.de/) |
 | ICFPT       | 10/07/2017                   | 17/07/2017                     | 20/09/2017                 | A    | Melbourne (Australia)  | [Website](http://www.icfpt.org/)         |
 | Reconfig    | 11/08/2017                   | 11/08/2017                     | 22/09/2017                 | B    | Cancun, Mexico         | [Website](http://www.reconfig.org/)      |
