@@ -1,4 +1,4 @@
-# N/Asec-hardware-confs
+# sec-hardware-confs
 A list of conferences related to hardware (FPGA, etc) and security.
 
 ## Important information
