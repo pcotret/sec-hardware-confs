@@ -20,12 +20,12 @@ The dates are shown here in DD/MM/YYYY format.
 | DSD         | 01/04/2018                   | 01/04/2018                     | 15/05/2018                 | B    | Prague, Czech republic | [Website](http://dsd-seaa2018.fit.cvut.cz/dsd/) |
 | ICCAD       | 06/04/2018                   | 23/04/2018                     | 27/06/2018                 | A+   | San Diego (CA, USA)       | [Website](https://iccad.com)             |
 | CRYPTARCHI  | 10/04/2018                   | 10/04/2018                     | 21/04/2018                 | C    | Guidel, France    | [Website](https://labh-curien.univ-st-etienne.fr/cryptarchi/) |
-| DASIP       | 25/05/2017                   | 01/06/2017                     | 10/07/2017                 | B    | Dresden, Germany       | [Website](http://dasip2017.esit.rub.de/) |
-| ICFPT       | 10/07/2017                   | 17/07/2017                     | 20/09/2017                 | A    | Melbourne (Australia)  | [Website](http://www.icfpt.org/)         |
-| Reconfig    | 11/08/2017                   | 11/08/2017                     | 22/09/2017                 | B    | Cancun, Mexico         | [Website](http://www.reconfig.org/)      |
+| DASIP       | 01/06/2018              | 01/06/2018                    | 06/07/2018              | B    | Porto, Portugal | [Website](https://web.fe.up.pt/~specs/events/dasip2018/) |
+| ICFPT       | 09/07/2018         | 09/07/2018           | 03/09/2018     | A    | Naha,  Okinawa, Japan | [Website](http://www.fpt18.sakura.ne.jp/) |
+| Reconfig    | 03/08/2018         | 03/08/2018           | 21/09/2018 | B    | Cancun, Mexico         | [Website](http://www.reconfig.org/)      |
 | DATE        | 10/09/2017                   | 10/09/2017                     | 10/11/2017                 | A+   | Dresden, Germany       | [Website](http://date-conference.com)    |
 | FPGA        | 17/09/2017                   | 17/09/2017                     | 15/11/2017                 | A+   | Monterrey (CA, USA)    | [Website](http://www.isfpga.org/)        |
-| HOST        | ?/11/2017                    | /11/2017                       | End January                | B    |                        | [Website](http://www.hostsymposium.org/) |
+| HOST        | 15/10/2018          | 22/10/2018             | 01/02/2019      | B    | Washington, USA | [Website](http://www.hostsymposium.org/) |
 | ARC         | 11/11/2017                   | 11/11/2017                     | 19/12/2017                 | B    | Santorini, Greece      | [Website](http://arc2018.esda-lab.cied.teiwest.gr/) |
 | DAC         | 14/11/2017                   | 21/11/2017                     | End February               | A+   | Austin (TX, USA)       | [Website](http://www.dac.com)            |
 | MWSCAS      | 18/03/2018                   | 18/03/2018                     | 29/04/2018                 | B    | Boston                 | [Website](https://mwscas2018.org/)       |
