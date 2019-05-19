@@ -10,22 +10,22 @@ The dates are shown here in DD/MM/YYYY format.
 
 | Conferences | Abstract Submission deadline | Full paper submission deadline | Notification of acceptance | rank | Location               | Link                                     |
 | ----------- | ---------------------------- | ------------------------------ | -------------------------- | ---- | ---------------------- | ---------------------------------------- |
-| FCCM        | 12/01/2018                   | 12/01/2018                     | 05/03/2018                 | A    | Boulder, CO, USA       | [Website](http://fccm.org)               |
-| RAW         | 12/01/2018                   | 19/01/2018                     | 16/02/2018                 | B    | Vancouver, Canada      | [Website](http://raw.necst.it/)          |
-| HASP        | 06/04/2018                   | 06/04/2018                     | 20/04/2018                 | A+/A | Toronto                | [Website](http://caslab.csl.yale.edu/workshops/hasp2018/index.html) |
-| CHES        | N/A                          | N/A                            | N/A                        | A    | Amsterdam, Netherlands | [Website](http://www.chesworkshop.org/2018/) |
-| FPL         | 26/03/2018                   | 09/04/2018                     | 21/05/2018                 | A    | Dublin, Ireland        | [Website](http://www.fpl2018.org/)       |
-| Recosoc     | 09/04/2018                   | 16/04/2018                     | 21/05/2018                 | B    | Lille, France          | [Website](http://www.univ-valenciennes.fr/recosoc) |
-| CODES+ISSS  | 27/03/2018                   | 03/04/2018                     | 01/07/2018                 | A+   | Seoul, South Korea     | [Website](http://esweek.org/codes/about) |
-| DSD         | 01/04/2018                   | 01/04/2018                     | 15/05/2018                 | B    | Prague, Czech republic | [Website](http://dsd-seaa2018.fit.cvut.cz/dsd/) |
-| ICCAD       | 06/04/2018                   | 23/04/2018                     | 27/06/2018                 | A+   | San Diego (CA, USA)       | [Website](https://iccad.com)             |
-| CRYPTARCHI  | 10/04/2018                   | 10/04/2018                     | 21/04/2018                 | C    | Guidel, France    | [Website](https://labh-curien.univ-st-etienne.fr/cryptarchi/) |
-| DASIP       | 01/06/2018              | 01/06/2018                    | 06/07/2018              | B    | Porto, Portugal | [Website](https://web.fe.up.pt/~specs/events/dasip2018/) |
-| ICFPT       | 09/07/2018         | 09/07/2018           | 03/09/2018     | A    | Naha,  Okinawa, Japan | [Website](http://www.fpt18.sakura.ne.jp/) |
-| Reconfig    | 03/08/2018         | 03/08/2018           | 21/09/2018 | B    | Cancun, Mexico         | [Website](http://www.reconfig.org/)      |
-| DATE        | 10/09/2017                   | 10/09/2017                     | 10/11/2017                 | A+   | Dresden, Germany       | [Website](http://date-conference.com)    |
-| FPGA        | 17/09/2017                   | 17/09/2017                     | 15/11/2017                 | A+   | Monterrey (CA, USA)    | [Website](http://www.isfpga.org/)        |
-| HOST        | 15/10/2018          | 22/10/2018             | 01/02/2019      | B    | Washington, USA | [Website](http://www.hostsymposium.org/) |
-| ARC         | 11/11/2017                   | 11/11/2017                     | 19/12/2017                 | B    | Santorini, Greece      | [Website](http://arc2018.esda-lab.cied.teiwest.gr/) |
-| DAC         | 14/11/2017                   | 21/11/2017                     | End February               | A+   | Austin (TX, USA)       | [Website](http://www.dac.com)            |
-| MWSCAS      | 18/03/2018                   | 18/03/2018                     | 29/04/2018                 | B    | Boston                 | [Website](https://mwscas2018.org/)       |
+| FCCM        | 07/01/2019                | 14/01/2019                   | 04/03/2019               | A    | San Diego, CA, USA | [Website](http://fccm.org)               |
+| RAW         | 08/02/2019               | 08/02/2019                 | 01/03/2019             | B    | Vancouver, Canada      | [Website](http://raw.necst.it/)          |
+| HASP        | 28/04/2019                | 28/04/2019                  | 12/05/2019             | A+/A | Phoenix, AZ, USA | [Website](http://caslab.csl.yale.edu/workshops/hasp2019/index.html) |
+| CHES        | N/A                          | N/A                            | N/A                        | A    | Atlanta, USA | [Website](https://ches.iacr.org/2019/) |
+| FPL         | 22/03/2019                 | 29/03/2019                 | 20/05/2019              | A    | Barcelona, Spain | [Website](https://fpl2019.bsc.es/) |
+| Recosoc     | 28/04/2019               | 05/05/2019              | 04/06/2019             | B    | York, UK     | [Website](https://www.recosoc.org) |
+| CODES+ISSS  | 05/04/2019               | 12/04/2019                  | 10/07/2019             | A+   | New York, USA | [Website](http://esweek.org/codes/about) |
+| DSD         | 28/04/2019                | 28/04/2019                 | 31/05/2019              | B    | Kallithea, Greece | [Website](http://dsd-seaa2019.csd.auth.gr/dsd/) |
+| ICCAD       | 01/04/2019                 | 08/04/2019                  | 21/06/2019               | A+   | Westminster, CO, USA | [Website](https://iccad.com)             |
+| CRYPTARCHI  | 06/05/2019               | 06/05/2019                 | 10/05/2019             | C    | Pruhonice, France | [Website](https://labh-curien.univ-st-etienne.fr/cryptarchi/) |
+| DASIP       | 17/05/2019          | 24/05/2019               | 12/07/2019           | B    | Montréal, Canada | [Website](https://dasip-conference.org/) |
+| ICFPT       | 15/07/2019       | 22/07/2019         | 29/09/2019   | A    | Tianjin,  China | [Website](http://fpt19.tju.edu.cn/) |
+| Reconfig    | 22/07/2019     | 22/07/2019 | 20/09/2019 | B    | Cancun, Mexico         | [Website](http://www.reconfig.org/)      |
+| DATE        | xx/xx/2019              | xx/xx/2019                | xx/xx/2019            | A+   | Grenoble, France | [Website](http://date-conference.com)    |
+| FPGA        | 01/10/2018              | 01/10/2018           | 15/11/2018     | A+   | Monterrey (CA, USA)    | [Website](http://www.isfpga.org/)        |
+| HOST        | 29/10/2018         | 5/11/2018          | 01/02/2019      | B    | Washington, USA | [Website](http://www.hostsymposium.org/) |
+| ARC         | 23/11/2018                  | 23/11/2018                   | 18/01/2019                | B    | Darmstadt, Germany | [Website](http://www.arc-symposium.org/) |
+| DAC         | xx/xx/2019         | xx/xx/2019            | xx/xx/2019     | A+   | Las Vegas, NV, USA | [Website](http://www.dac.com)            |
+| MWSCAS      | 08/03/2019                  | 08/03/2019           | 26/04/2019                 | B    | Dallas, TX, UA   | [Website](https://www.mwscas2019.org/) |
