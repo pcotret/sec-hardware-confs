@@ -10,11 +10,11 @@ The dates are shown here in DD/MM/YYYY format.
 
 | Conferences | Abstract Submission deadline | Full paper submission deadline | Notification of acceptance | rank | Location               | Link                                     |
 | ----------- | ---------------------------- | ------------------------------ | -------------------------- | ---- | ---------------------- | ---------------------------------------- |
-| FCCM        | 07/01/2019                | 14/01/2019                   | 04/03/2019               | A    | San Diego, CA, USA | [Website](http://fccm.org)               |
-| RAW         | 08/02/2019               | 08/02/2019                 | 01/03/2019             | B    | Vancouver, Canada      | [Website](http://raw.necst.it/)          |
-| HASP        | 28/04/2019                | 28/04/2019                  | 12/05/2019             | A+/A | Phoenix, AZ, USA | [Website](http://caslab.csl.yale.edu/workshops/hasp2019/index.html) |
-| CHES        | N/A                          | N/A                            | N/A                        | A    | Atlanta, USA | [Website](https://ches.iacr.org/2019/) |
-| FPL         | 22/03/2019                 | 29/03/2019                 | 20/05/2019              | A    | Barcelona, Spain | [Website](https://fpl2019.bsc.es/) |
+| FCCM        | 06/01/2020             | 13/01/2020                | 02/03/2020            | A    | Fayetteville, USA | [Website](http://fccm.org)               |
+| RAW         | 25/01/2020     | 25/01/2020       | 15/02/2020   | B    | New Orleans, USA | [Website](http://raw.necst.it/)          |
+| HASP        | 28/04/2019                | 28/04/2019                  | 12/05/2019             | A+/A | Phoenix, AZ, USA | [Website](http://caslab.csl.yale.edu/workshops/hasp2020/index.html) |
+| CHES        | N/A                          | N/A                            | N/A                        | A    | Beijing, China | [Website](https://ches.iacr.org/2020/) |
+| FPL         | xx/xx/2020     | xx/xx/2020    | xx/xx/2020 | A    | Gothenburg, Sweden | [Website](https://www.fpl2020.org/) |
 | Recosoc     | 28/04/2019               | 05/05/2019              | 04/06/2019             | B    | York, UK     | [Website](https://www.recosoc.org) |
 | CODES+ISSS  | 05/04/2019               | 12/04/2019                  | 10/07/2019             | A+   | New York, USA | [Website](http://esweek.org/codes/about) |
 | DSD         | 28/04/2019                | 28/04/2019                 | 31/05/2019              | B    | Kallithea, Greece | [Website](http://dsd-seaa2019.csd.auth.gr/dsd/) |
