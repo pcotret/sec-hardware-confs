@@ -30,4 +30,4 @@ The dates are shown here in DD/MM/YYYY format.
 | ARC         | 22/12/2019               | 22/12/2019              | 24/01/2020            | B    | Toledo, Spain | [Website](http://www.arc-symposium.org/) |
 | DAC         | xx/xx/2021       | xx/xx/2021          | xx/xx/2021   | A+   | San Francisco, USA | [Website](http://www.dac.com)            |
 | MWSCAS      | 29/05/2020       | 29/05/2020 | 03/07/2020     | B    | Online | [Website](https://www.mwscas2020.org/) |
-| Rapido      | xx/11/2020    | xx/11/2020       | xx/12/2020 | B    | Budapest, Hungary | [Website](https://rapidoworkshop.github.io/2021/cfp.html) |
+| Rapido      | 23/11/2020    | xx/11/2020       | xx/12/2020 | B    | Budapest, Hungary | [Website](https://rapidoworkshop.github.io/2021/cfp.html) |
